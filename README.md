@@ -1,5 +1,9 @@
 # Golang Learning Path
 
+<img align="right"  width="250" alt="nerd" src="https://github.com/GolangUA/gopher-logos/blob/master/PNG/gopher_nerd.png">
+
+_(Image credits: [https://github.com/GolangUA/gopher-logos](https://github.com/GolangUA/gopher-logos))_
+
 This is a recompilation of good articles and videos that will help you from getting started with golang but also improving writing idiomatic go as well as structure your code.
 
 If you want to suggest any new article/video, feel free to suggest it via a Merge Request
